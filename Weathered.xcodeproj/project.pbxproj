@@ -13,6 +13,7 @@
 		26C42F491C16291000C82825 /* Weathered.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 26C42F471C16291000C82825 /* Weathered.xcdatamodeld */; };
 		26C42F4B1C16291000C82825 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 26C42F4A1C16291000C82825 /* Assets.xcassets */; };
 		26C42F4E1C16291000C82825 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 26C42F4C1C16291000C82825 /* LaunchScreen.storyboard */; };
+		26C42F561C162ADC00C82825 /* clouds.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 26C42F551C162ADC00C82825 /* clouds.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		26C42F4A1C16291000C82825 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		26C42F4D1C16291000C82825 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		26C42F4F1C16291000C82825 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		26C42F551C162ADC00C82825 /* clouds.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = clouds.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				26C42F421C16291000C82825 /* ViewController.swift */,
 				26C42F441C16291000C82825 /* Main.storyboard */,
 				26C42F4A1C16291000C82825 /* Assets.xcassets */,
+				26C42F551C162ADC00C82825 /* clouds.jpg */,
 				26C42F4C1C16291000C82825 /* LaunchScreen.storyboard */,
 				26C42F4F1C16291000C82825 /* Info.plist */,
 				26C42F471C16291000C82825 /* Weathered.xcdatamodeld */,
@@ -128,6 +131,7 @@
 				26C42F4E1C16291000C82825 /* LaunchScreen.storyboard in Resources */,
 				26C42F4B1C16291000C82825 /* Assets.xcassets in Resources */,
 				26C42F461C16291000C82825 /* Main.storyboard in Resources */,
+				26C42F561C162ADC00C82825 /* clouds.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
